@@ -1,0 +1,191 @@
+# depslib dependency file v1.0
+1512415190 source:f:\learn c\srt\stationary management\delete.c
+	"main.h"
+
+1512448396 f:\learn c\srt\stationary management\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"insert.h"
+	"search.h"
+	"delete.h"
+	"product.h"
+	"update.h"
+
+1512409200 f:\learn c\srt\stationary management\insert.h
+
+1512409200 f:\learn c\srt\stationary management\search.h
+
+1512409200 f:\learn c\srt\stationary management\delete.h
+
+1512409200 f:\learn c\srt\stationary management\product.h
+
+1512448396 f:\learn c\srt\stationary management\update.h
+
+1512416292 source:f:\learn c\srt\stationary management\insert.c
+	"main.h"
+
+1512449500 source:f:\learn c\srt\stationary management\main.c
+	"main.h"
+
+1512412197 source:f:\learn c\srt\stationary management\product.c
+	"main.h"
+
+1512413430 source:f:\learn c\srt\stationary management\search.c
+	"main.h"
+
+1512449796 source:f:\learn c\srt\stationary management\update.c
+	"main.h"
+
+1512415192 source:g:\stationary management\delete.c
+	"main.h"
+
+1512448398 g:\stationary management\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"insert.h"
+	"search.h"
+	"delete.h"
+	"product.h"
+	"update.h"
+
+1512409202 g:\stationary management\insert.h
+
+1512409202 g:\stationary management\search.h
+
+1512409202 g:\stationary management\delete.h
+
+1512409202 g:\stationary management\product.h
+
+1512448398 g:\stationary management\update.h
+
+1512456128 source:g:\stationary management\insert.c
+	"main.h"
+
+1512449502 source:g:\stationary management\main.c
+	"main.h"
+
+1512412198 source:g:\stationary management\product.c
+	"main.h"
+
+1512413432 source:g:\stationary management\search.c
+	"main.h"
+
+1512458020 source:g:\stationary management\update.c
+	"main.h"
+
+1512415192 source:i:\stationary management\delete.c
+	"main.h"
+
+1512448398 i:\stationary management\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"insert.h"
+	"search.h"
+	"delete.h"
+	"product.h"
+	"update.h"
+
+1512409202 i:\stationary management\insert.h
+
+1512409202 i:\stationary management\search.h
+
+1512409202 i:\stationary management\delete.h
+
+1512409202 i:\stationary management\product.h
+
+1512448398 i:\stationary management\update.h
+
+1512456128 source:i:\stationary management\insert.c
+	"main.h"
+
+1512449502 source:i:\stationary management\main.c
+	"main.h"
+
+1512412198 source:i:\stationary management\product.c
+	"main.h"
+
+1512413432 source:i:\stationary management\search.c
+	"main.h"
+
+1512458020 source:i:\stationary management\update.c
+	"main.h"
+
+1512415192 source:c:\users\asus\desktop\stationary management\delete.c
+	"main.h"
+
+1512448398 c:\users\asus\desktop\stationary management\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"insert.h"
+	"search.h"
+	"delete.h"
+	"product.h"
+	"update.h"
+
+1512409202 c:\users\asus\desktop\stationary management\insert.h
+
+1512409202 c:\users\asus\desktop\stationary management\search.h
+
+1512409202 c:\users\asus\desktop\stationary management\delete.h
+
+1512409202 c:\users\asus\desktop\stationary management\product.h
+
+1512448398 c:\users\asus\desktop\stationary management\update.h
+
+1512459896 source:c:\users\asus\desktop\stationary management\insert.c
+	"main.h"
+
+1512449502 source:c:\users\asus\desktop\stationary management\main.c
+	"main.h"
+
+1512412198 source:c:\users\asus\desktop\stationary management\product.c
+	"main.h"
+
+1512413432 source:c:\users\asus\desktop\stationary management\search.c
+	"main.h"
+
+1512465618 source:c:\users\asus\desktop\stationary management\update.c
+	"main.h"
+
+1512415192 source:f:\stationary management\delete.c
+	"main.h"
+
+1512448398 f:\stationary management\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"insert.h"
+	"search.h"
+	"delete.h"
+	"product.h"
+	"update.h"
+
+1512409202 f:\stationary management\insert.h
+
+1512409202 f:\stationary management\search.h
+
+1512409202 f:\stationary management\delete.h
+
+1512409202 f:\stationary management\product.h
+
+1512448398 f:\stationary management\update.h
+
+1512459896 source:f:\stationary management\insert.c
+	"main.h"
+
+1512449502 source:f:\stationary management\main.c
+	"main.h"
+
+1512412198 source:f:\stationary management\product.c
+	"main.h"
+
+1512413432 source:f:\stationary management\search.c
+	"main.h"
+
+1512467258 source:f:\stationary management\update.c
+	"main.h"
+
